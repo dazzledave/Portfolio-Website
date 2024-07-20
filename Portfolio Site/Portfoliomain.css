@@ -2,12 +2,18 @@ header{
     background-color: rgb(49, 21, 21);
     color: aqua;
     font-family: arial black;
+    font-size: 30px;
     padding: 20px;
 }
+img{
+    width: 400px;
+    height: 400px;
+}
 body{
-    background-color: #c2a8a8;
+    background-color: #000000;
     font-size: larger;
     font-family: arial;
+    color: aliceblue;
 }
 p{
     font-size: large;
