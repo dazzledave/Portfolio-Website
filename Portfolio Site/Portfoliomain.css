@@ -1,0 +1,17 @@
+header{
+    background-color: rgb(49, 21, 21);
+    color: aqua;
+    font-family: arial black;
+    padding: 20px;
+}
+body{
+    background-color: #c2a8a8;
+    font-size: larger;
+    font-family: arial;
+}
+p{
+    font-size: large;
+}
+h1{
+    font-family: arial black;
+}
